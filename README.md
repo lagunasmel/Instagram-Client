@@ -23,6 +23,11 @@ Here's a walkthrough of implemented user stories:
 
 (https://imgur.com/a/HEr3ehD)
 
+**Update 3/21** 
+Launch screen gif: 
+
+(https://imgur.com/a/ktUOIsC)
+
 **User stories #3 and #4:**
 
 (https://imgur.com/a/EuYCeSa)
